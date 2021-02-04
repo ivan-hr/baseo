@@ -15,3 +15,8 @@ Link zum Projekt <a href="https://github.com/ivan-hr/ba">Repository</a>.
 Die Bachelorarbeit kann <a href="/assets/pdf/Bachelorarbeit_Ivan_Rasic.pdf">hier</a> als PDF Dokument heruntergeladen und gelesen werden.
 
 Ivan Rašić
+
+
+Todo:
+- Kurz darauf eingehen was das Ziel der Suchmaschinenoptimierung war aus Sicht des Unternehmens
+- Verlinke das Praxisprojekt auf den neuen Seiten
