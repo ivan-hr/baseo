@@ -129,6 +129,73 @@ Die Pillar-Content Strategie verfolgt dabei das Ziel, im Kernthema die Schlüsse
 
 Suchphrasen mit mehr als 5 Wörtern machen gegenwärtig 41.7% aller Suchen aus. Suchphrasen bestehend aus 4 bzw. 3 Wörtern haben einen Anteil von jeweils 22.8% bzw. 21.9% [<sup>22</sup>](#22). Mit Hilfe der Pillar-Content Strategie kann der Conntent-Erzeuger detaillierte Anfragen der Suchenden besser beantwortet, indem dieser in den Subtopics detaillierter auf die jeweilige Thema eingeht.
 
+<div style="text-align:center"><img src="assets/images/hubspot-suchbegriffe.png" width="35%"><br/>Abbildung 9: https://blog.hubspot.de/marketing/inhalte-an-online-suche-anpassen - Suchbegriffe nach Anzahl der Wörter</div><br/>
+
+Weitere Vorteile die Inhalte thematisch zu clustern, ist die damit einhergehende Strukturierung der Inhalte, sowie die Erzeugung von internen Links.
+
+Individuelle Blog-Beiträge können für bestimmte Suchphrasen ein hohes Ranking erreichen, allerdings besteht die Möglichkeit das durch zu viele Blog-Beiträge, auf Dauer die Benutzerfreundlichkeit der Webseiten leidet. Weiterführende Inhalte zum ursprünglichen Blog Post können durch eine schlechte Strukturierung nicht sofort gefunden werden [<sup>20</sup>](#20) und der angekommene Nutzer sieht sich gezwungen eine weitere Suchanfrage in der Suchmaschine anzustoßen.
+
+Eine HubSpot Studie wies des Weiteren nach, dass Themen welche nach der Pillar-Content Methode erzeugt wurden und dadurch mehr interne Verlinkungen vorzuweisen hatten, sich sowohl in den Suchergebnisseiten besser positionieren konnten, als das diese auch mehr Impressionen vorzuweisen hatten [<sup>23</sup>](#23).
+
+<div style="text-align:center"><img src="assets/images/topiccluster_topicsoverkeywords.png" width="35%"><br/>Abbildung 10: https://www.anumhussain.com/presentations/topics-over-keywords - Topics over Keywords</div><br/>
+
+Für die Unternehmenswebseiten BSS Schieh-Schneider lassen sich die folgenden Kernthemen und
+Subtopics ableiten:
+
+**Fenster**
+- Fensterrahmen
+- Fensterbeschläge
+- Fenster Reparatur
+
+**Türen**
+- Haustüren
+- Sichereitstüren
+- Türen Reparatur
+
+## Nutzererlebnis Optimierung
+Analog zur vierten Ebene der SEO Bedürfnispyramide wird in diesem letzten Abschnitt der SEOStrategie betrachtet, wie die Nutzererlebnis Optimierung verbessert werden kann. Die gegenwärtigen Webseiten des Unternehmens BSS Schieh-Schneider sind »Responsive« und gewährleisten so, dass die Inhalte flexibel auf dem Desktop-Computer, Tablet und Smartphone eine einheitliche Benutzerfreundlichkeit bieten.
+
+### Verbesserung der Ladezeiten
+Die Ladezeit einer Webseite gilt mitunter als ein wichtiger Faktor für den Erfolg einer Webseite, den ab dem 1. Juli 2019 nutzt die Suchmaschine Google die mobilen Inhalte für die Indexierung und das Ranking [<sup>24</sup>](#24). Laut einer Google Studie aus dem Jahr 2017, beträgt die Absprungsrate der mobilen Nutzer 53% wenn eine Webseite mehr als 3 Sekunden benötigt die aufgerufenen Inhalte zu laden [<sup>25</sup>](#25). Für Webseiten mit einer längeren Ladezeit als 10 Sekunden, erhöht sich die Absprungrate um 123%.
+
+Die Ladezeiten der Unternehmens Webseiten wurden daher mit dem Online-Dienst »PageSpeed Insights « untersucht. Der Online-Dienst von Google betrachtet Faktoren wie den Aufbaue der Skriptsprachen HTML und Javascript, als auch die Formatierungssprache CSS sowie die Integration von Bildern. Im Rahmen des Tests werden die Ergebnisse mitunter mit den Daten aus Googles Bericht zur Nutzererfahrung in Chrome verglichen [<sup>26</sup>](#26). Der Content-Erzeuger erhält nach Abschluss des Tests einen »Performance Wert« auf einer Skala von 0 bis 100. Die Auswertung erfolgt sowohl für die Mobile- als auch die Desktop-Ansicht der Webseiten. Zusätzlich zum Performance Wert stellt das Tool Optimierungspotentiale zusammen, welche laut Google die Ladezeiten der Webseiten möglicherweise reduzieren könnten.
+
+<div style="text-align:center"><img src="assets/images/pagespeed_mobil.png" width="90%"><br/>Abbildung 11: https://developers.google.com/speed - Ergebnis der Auswertung für die Mobile-Ansicht</div><br/>
+
+<div style="text-align:center"><img src="assets/images/pagespeed_desktop.png" width="90%"><br/>Abbildung 12: https://developers.google.com/speed - Ergebnis der Auswertung für die Desktop-Ansicht</div><br/>
+
+Sowohl für die Desktop-Variante als auch die Mobile-Variante liegt Handlungsbedarf vor. Der Performance Wert für die Mobile-Variante beträgt 10 von 100 Punkten und für die Desktop-Variante 25 von 100 Punkten. Die Ladezeit hingegen beträgt 15,3 Sekunden. Der von Google Mitarbeitern empfohlene Performance Wert für die Mobile-Variante einer Webseite beträgt 85 von 100 Punkten [<sup>27</sup>](#27). Die Ladezeiten sollten sich zwischen zwei und drei Sekunden befinden um als »schnell« bewertet zu werden.
+
+Das Tool PageSpeed Insights empfiehlt folgende Änderungen zu vollziehen um den PerformanceWert erhöhen zu können:
+
+<div style="text-align:center"><img src="assets/images/pagespeed_empfehlungen.png" width="60%"><br/>Abbildung 13: https://developers.google.com/speed - Übersicht der Empfehlungen</div><br/>
+
+
+Die Empfehlungen wurden in die Liste der zu erledigen SEO-Maßnahmen aufgenommen.
+
+### Fehler bei der Nutzerfreundlichkeit auf Mobilgeräten
+Weitere Fehler in der Usability, speziell der Mobile Usability, konnten in der Google Search Console im »Bericht zur Nutzererfahrung auf Mobilgeräten« ermittelt werden.
+
+<div style="text-align:center"><img src="assets/images/mobile_usability_fehler.png" width="80%"><br/>Abbildung 14: https://search.google.com/search-console - Bericht zur Nutzererfahrung auf Mobilgeräten</div><br/>
+
+
+Dabei wurde festgestellt das zwei Probleme vorliegen, welche auf eine zu kleine Schriftgröße der Navigation zurückzuführen sind.
+
+- Text ist zu klein zum Lesen
+- Anklickbare Elemente liegen zu dicht beieinander
+
+Die Empfehlung seitens Google die Schriftgröße für das entsprechende Element zu erhöhen [<sup>28</sup>](#28), wurde ebenfalls in die Liste der zu erledigen SEO-Maßnahmen aufgenommen.
+
+### Optimierung der Navigation
+Damit der Nutzer in der Lage ist seine Ziele auf den Webseiten zu erreichen, sollte die Navigation so einfach und intuitiv wie nur möglich gestaltet sein. Bei der Navigation der Unternehmenswebseiten BSS Schieh-Schneider ist aufgefallen, dass die Untermenüs der Navigation nicht mit Indikatoren versehen wurden. Der Nutzer müsste um zu erfahren das hinter einem bestimmten Menüpunkt weitere Inhalte verborgen sind, erst mit dem Mauszeiger über den Punkt scrollen.
+
+Aus Sicht der Usability ist es das Ziel des Content-Erzeugers dafür zu sorgen, das der Webseiten Nutzer mit Hilfe der Navigation seine Ziele auf denWebseiten immer erreichen kann [<sup>29</sup>](#29). Die fehlenden Indikatoren wurden in die Liste der zu optimierenden OnPage Maßnahmen aufgenommen.
+
+<div style="text-align:center"><img src="assets/images/usability_fehler.png" width="60%"><br/>Abbildung 15: Eigene Aufnahme: Fehlende Navigation Indikatoren</div><br/>
+
+
+
+
 ---
 
 
@@ -174,6 +241,20 @@ musst. <https://projekte-leicht-gemacht.de/blog/pm-methoden-erklaert/beduerfnisp
 
 <a name="20"><sup>20</sup><a> Bernazzani, S. (o.D.): Was ist eine Pillar-Seite und welche Relevanz hat sie für Ihre SEO? <https://blog.hubspot.de/marketing/was-ist-eine-pillar-seite>
 
-<a name="22"><sup>21</sup><a> Indexlift (o.D.): SEO Authority <https://www.indexlift.com/de/glossar/authority>
+<a name="21"><sup>21</sup><a> Indexlift (o.D.): SEO Authority <https://www.indexlift.com/de/glossar/authority>
 
-<a name="22"><sup>22</sup><a> Lapp, J. (2020):  Die Online-Suche hat sich verändert – Ihre Inhalte müssen das auch <https://blog.hubspot.de/marketing/was-ist-eine-pillar-seite>
+<a name="22"><sup>22</sup><a> Lapp, J. (2020): Die Online-Suche hat sich verändert – Ihre Inhalte müssen das auch <https://blog.hubspot.de/marketing/was-ist-eine-pillar-seite>
+
+<a name="23"><sup>23</sup><a> Anum, H. (2015): Topics over keywords: An seo-driven approach to content marketing. <https://www.anumhussain.com/presentations/topics-over-keywords>
+
+<a name="24"><sup>24</sup><a> Google (2020): Best practices für die mobile First-Indexierung. <https://developers.google.com/search/mobile-sites/mobile-first-indexing?hl=de>
+
+<a name="25"><sup>25</sup><a> An, D. (2017): Find Out How You Stack Up to New Industry Benchmarks for Mobile Page Speed <https://www.thinkwithgoogle.com/intl/en-ca/marketing-strategies/app-and-mobile/mobile-page-speed-new-industry-benchmarks/>
+
+<a name="26"><sup>26</sup><a> Google (2020): Was sind die Google Pagespeed Insights? <https://www.sistrix.de/frag-sistrix/page-speed-insight/>
+
+<a name="27"><sup>27</sup><a> Kopp, O (2020): Page Speed: Wie wichtig sind Ladezeiten als Rankingfaktor für SEO bei Google? <https://www.sem-deutschland.de/blog/page-speed-seo-ranking/>
+
+<a name="28"><sup>28</sup><a> Google (o.D.): Bericht zur Nutzererfahrung auf Mobilgeräten <https://support.google.com/webmasters/answer/9063469?hl=de>
+
+<a name="29"><sup>29</sup><a> Broschart, S. (2010): Suchmaschinenoptimierung & Usability, Seite 308-309
