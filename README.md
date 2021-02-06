@@ -5,8 +5,8 @@ Im Handlungsleitfaden des vorangegangen Praxisprojektes, waren das Herleiten ein
 
 Aus Gründen der Nachhaltigkeit, werden die Ergebnisse der Arbeit als OpenSource Projekt in diesem <a href="https://github.com/ivan-hr/baseo" target="_blank">Repository</a> vorgestellt. Gerne möchte ich die Leser dazu anregen, dieses Projekt zu erweitern, verbessern und ggf. mit neuen Erkenntnissen oder Methoden anzureichern.
 
-Das GitHub Repository der vorangegangen Projektarbeit finden Sie <a href="https://github.com/ivan-hr/seousa" target="_blank">hier</a>.
+Das GitHub Repository der vorangegangen Projektarbeit finden Sie <a href="https://github.com/ivan-hr/seousa" target="_blank">hier</a>. Die Bachelorarbeit kann <a href="/assets/pdf/Bachelorarbeit_Ivan_Rasic.pdf" target="_blank">hier</a> als PDF Dokument heruntergeladen und gelesen werden.
 
-Die Bachelorarbeit kann <a href="/assets/pdf/Bachelorarbeit_Ivan_Rasic.pdf" target="_blank">hier</a> als PDF Dokument heruntergeladen und gelesen werden.
+Die Github Page dieses Repositories kann unter der folgenden URL aufgerufen werden: <a href="https://ivan-hr.github.io/baseo/" target="_blank">https://ivan-hr.github.io/baseo/</a>
 
 Ivan Rašić
