@@ -7,7 +7,18 @@ Um der Zielsetzung der Bachelorarbeit gerecht zu werden zu werden, hat das folge
 
 Es gilt dabei nicht nur die Frage zu beantworten was die Bedürfnisse des Nutzers sind, sondern wie diese auf den Webseiten technisch umgesetzt werden können, um den Aufenthalt des Nutzers unterstützend zu begleiten. Qualitative Inhalte spielen eine wichtige Rolle [<sup>2</sup>](#2), jedoch fließen in die Bewertung einer Webseite seitens der Suchmaschine noch weitere Faktoren mit ein. Aus Sicht des Content-Erzeugers, gilt es daher die Faktoren für die gegenwärtig betrachtenden Webseiten festzustellen und darauf basierend, die entsprechenden Suchmaschinen optimierenden Maßnahmen herzuleiten.
 
-## Die Maslowsche Hierarchie der SEO-Bedürfnisse
++ [Die Maslowsche Hierarchie der SEO-Bedürfnisse](#maslow)
++ [Crawlability prüfen](#crawlability)
++ [Konzeptentwicklung für die Erstellung von qualitativen Inhalten](#content)
++ [Zielgruppendefiniton](#zielgruppendefi)
++ [Pillar-Content](#pillar)
++ [Nutzererlebnis Optimierung](#uxo)
+
+
+
+<br/>
+
+## <a name="maslow"><a>Die Maslowsche Hierarchie der SEO-Bedürfnisse
 
 <div style="text-align:center"><img src="assets/images/mozlows-seo-needs.png" width="50%"><br/>Abbildung 1: https://moz.com/beginners-guide-to-seo - SEO Bedürfnispyramide nach Maslow</div><br/>
 
@@ -31,7 +42,7 @@ Basierend auf der Maslowsche Bedürfnispyramide wurde das Konzept der »Maslowsc
 
 Damit das Ziel die Sichtbarkeit der Unternehmenswebseiten für das Thema »Fenster & Türen« zu verbessern erreicht werden kann, wird die folgende SEO-Strategie sich danach ausrichten, die Anforderungen der einzelnen Ebenen der »SEO-Bedürfnispyramide« zu erfüllen.
 
-## Crawlability prüfen
+## <a name="crawlability"><a> Crawlability prüfen
 
 Die Prüfung ob eineWebseite durch den Suchmaschinen Crawler in den Index aufgenommen werden konnte, lässt sich für Google mit folgenden Suchoperator nachvollziehen:
 
@@ -61,7 +72,7 @@ Die vollständige Liste der 404 Fehler kann im Anhang 1 der Bachelorarbeit entno
 ### Crawlability und die Folgen von Fehlern
 Suchmaschinen-Crawler verbringen nur eine bestimmte Zeit auf einerWebseite und verfügen über ein bestimmte Crawl-Budget welches bestimmt, wie viele Unterseiten einerWebseite sie crawlen können (vgl. [Ryte, oDd]). Webseiten welche dem Suchmaschinen-Crawler einen 404-Fehlercode zurückgeben, belasten das Crawl-Budget, was dazu führen kann dass neue Inhalte während des Aufenthaltes des Suchmaschinen-Crawlers nicht erfasst werden können.
 
-## Konzeptentwicklung für die Erstellung von qualitativen Inhalten
+## <a name="content"><a> Konzeptentwicklung für die Erstellung von qualitativen Inhalten
 Um qualitative Inhalte für die gewünschte Zielgruppe erstellen zu können, welche in Einklang mit den Suchintentionen der Zielgruppen sowie den Unternehmenszielen stehen wird im folgenden Abschnitt, wie im Handlungsleitfadens des vorangegangen Praxisprojektes beschrieben PRAPRO!, auf die Mission des Unternehmens, Zieldefinition und Zielgruppendefinition eingegangen.
 
 Die Konzeptentwicklung dient dem Content-Erzeuger dazu sich mit der Mission der Unternehmens, als auch dem Angebotsspektrum des Unternehmens vertraut zu machen. Es gilt dabei in Erfahrung zu bringen, was das Unternehmen anbietet und ob eventuell Alleinstellungsmerkmale im Vergleich zu Mitbewerbern vorliegen. Des Weiteren werden im Zuge der Konzeptenwicklung Fragen zu der Zielgruppe beantwortet, wie zum Beispiel was für Menschen wollen erreicht werden? Um wen handelt es sich bei der Zielgruppe und was für Eigenschaften haben diese? Aber auch die Frage nach den Bedürfnissen und Wünschen, welche die Zielgruppe motivieren nach einer spezifischen Sache zu suchen gehören beantwortet. Ebenfalls gilt es die Frage zu beantworten, ob es eventuell verschiedene Zielgruppen gibt welche seitens des Unternehmens adressiert werden müssen. Was für Unterschiede aber auch Gemeinsamkeiten liegen bei den verschiedenen Zielgruppen vor?
@@ -89,7 +100,7 @@ Ranking der Dienstleistungen »Fenster & Türen« um *20 Prozent* zu steigern, m
 
 Das definierte SMART-Ziel für den Fachbetrieb BSS Schieh-Schneider lautet: *Um das Ranking der Dienstleistungen »Fenster & Türen« bis Mitte Januar 2021 um 20 Prozent zu steigern, möchte ich den entsprechenden Content dank qualitativen und themenspezifischen Schlüsselwörtern verbessern. Dafür ergänze ich bereits vorhandene Inhalte und strukturiere die entsprechenden Bereiche um*.
 
-## Zielgruppendefiniton
+## <a name="zielgruppendefi"><a> Zielgruppendefiniton
 Nachdem die Mission des Unternehmens sowie das Ziel definiert wurden, muss herausgefunden werden wer die Personen sind die erreicht werden sollen. Inhalte welche die falsche Zielgruppe adressieren, verfehlen ihr Ziel und erreichen nicht die gewünschte Leserschaft.
 Wichtige Informationen für die Identifizierung der Zielgruppe sind soziodemografische Merkmale wie zum Beispiel das Alter, Geschlecht, Kaufkraft, Siedlungsart. Des Weiteren spielen psychologische Merkmale ebenfalls eine Rolle, hierbei gilt es in Erfahrung zu bringen was die Bedürfnisse und Motive der Personen sind [<sup>18</sup>](#18). Decken sich die Bedürfnisse und Motive der Personen die erreicht werden sollen mit den Zielen des Unternehmens, wurde die richtige Zielgruppe definiert.
 
@@ -114,7 +125,7 @@ erstellen, um bestimmte Bereiche der Webseiten aufrufen zu können.
 
 <div style="text-align:center"><img src="assets/images/proto_persona_wolfgang_bohn.png" width="75%"><br/>Abbildung 7: Profilbild Avatar von www.freepik.com - Proto-Persona Wolfgang Bohn</div><br/>
 
-## Pillar-Content
+## <a name="pillar"><a> Pillar-Content
 Sämtliche Inhalte zu den Themen »Fenster & Türen« wurden vor der Suchmaschinenoptimierung, auf den Unternehmens Webseiten auf jeweils einer einzelnen Landingpage abgebildet.
 
 `https://www.bss-schieh-schneider.de/leistungen/fenster/`
@@ -152,7 +163,7 @@ Subtopics ableiten:
 - Sichereitstüren
 - Türen Reparatur
 
-## Nutzererlebnis Optimierung
+## <a name="uxo"><a> Nutzererlebnis Optimierung
 Analog zur vierten Ebene der SEO Bedürfnispyramide wird in diesem letzten Abschnitt der SEOStrategie betrachtet, wie die Nutzererlebnis Optimierung verbessert werden kann. Die gegenwärtigen Webseiten des Unternehmens BSS Schieh-Schneider sind »Responsive« und gewährleisten so, dass die Inhalte flexibel auf dem Desktop-Computer, Tablet und Smartphone eine einheitliche Benutzerfreundlichkeit bieten.
 
 ### Verbesserung der Ladezeiten
