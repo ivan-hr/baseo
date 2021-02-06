@@ -103,6 +103,22 @@ ebenfalls Klicks verzeichnet werden.
 Ein identisches Ergebnis was die Verbesserung der Klickrate angeht, kann in Tabelle 14 für Landingpages der Dienstleistungen Türen beobachtet werden.
 
 ### <a name="ladezeiten"><a> Kennzahl: Ladezeiten
+Die Ladezeit einer Webseite ist ein Ranking-Faktor, welcher offiziell von Google bestätigt und als wichtig bezeichnet wurde [<sup>6</sup>](#6) [<sup>7</sup>](#7). Um eine Aussage darüber treffen zu können, ob eine Verbesserung der Ladezeiten im Rahmen der Suchmaschinenoptimierung erreicht werden konnte, werden für die Erfolgskontrolle die folgenden drei Metriken betrachtet:
+
+- **First Contentful Paint** beschreibt den Zeitpunkt wann der Browser des Nutzers, dass erste Mal einen Text oder ein Bild anzeigt. Aus Sicht des Nutzers ist dies die Zeit die benötigt wird, bis die auf den Webseiten das erste Mal etwas gesehen werden kann.
+
+- **Speed Index** beschreibt wie schnell sichtbare Elemente auf den Webseiten angezeigt werden. Aus Sicht des Nutzers ist dies die Zeit die benötigt wird, bis die Webseiten in seinem Browser fertig aussehen.
+
+- **Time to Interactive** beschreibt den Zeitpunkt wann dieWebseiten voll integrationsfähig sind. Aus Sicht des Nutzers ist dies die Zeit die benötigt wird, bis Elemente wie Buttons geklickt oder auf denWebseiten gescrollt werden kann.
+
+Für die Erhebung der Daten wurde Google Pagespeed verwendet. Die erste Prüfung erfolgte im Rahmen der Entwicklung der SEO-Strategie. Tabelle 15 stellt die drei KPI vor und nach Anwendung der Suchmaschinenoptimierung gegenüber.
+
+<div style="text-align:center"><img src="assets/images/tab_15.png" width="75%"></div><br/>
+
+
+Die erhobenen Daten in Tabelle 16 geben wieder, dass für alle drei Kennzahlen der Desktop Variante für die Unternehmenswebseiten, ebenfalls eine Verbesserung der Ladezeiten erreicht werden konnte.
+
+<div style="text-align:center"><img src="assets/images/tab_16.png" width="75%"></div><br/>
 
 
 ---
@@ -120,3 +136,6 @@ Computing), Seite 68
 
 <a name="5"><sup>5</sup><a> Google (o.D.): Leistungsbericht (Google Suche) <https://support.google.com/webmasters/answer/7576553>
 
+<a name="6"><sup>6</sup><a> Google (2018): Speed is now a landing page factor for google search and ads <https://developers.google.com/web/updates/2018/07/search-ads-speed>
+
+<a name="7"><sup>7</sup><a> Harsel, L. (2020): Wie sie Ihren Google Pagespeed Insights Score verbessern <https://de.semrush.com/blog/google-pagespeed-insights-score-verbessern/>

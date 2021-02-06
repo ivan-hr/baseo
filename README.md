@@ -1,8 +1,3 @@
----
-layout: default
-title: Start
----
-
 # SEO-Strategie und Erfolgskontrolle
 Die Inhalte dieses Projekts stellen Maßnahmen der Suchmaschinenoptimierung dar, welche bei der Anwendung und Bewertung des Handlungsleitfadens <a href="https://ivan-hr.github.io/seousa/index" target="_blank">'Das Zusammenspiel zwischen Usability und Suchmaschinenoptimierung'</a> angewandt wurden.
 
