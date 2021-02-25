@@ -12,6 +12,6 @@ Aus Gründen der Nachhaltigkeit, werden die Ergebnisse der Arbeit als OpenSource
 
 Das GitHub Repository der vorangegangen Projektarbeit finden Sie <a href="https://github.com/ivan-hr/seousa" target="_blank">hier</a>.
 
-Die Bachelorarbeit kann <a href="/assets/pdf/Bachelorarbeit_Ivan_Rasic.pdf" target="_blank">hier</a> als PDF Dokument heruntergeladen und gelesen werden.
+Die Bachelorarbeit kann <a href="https://github.com/ivan-hr/baseo/blob/master/assets/Bachelorarbeit_Ivan_Rasic.pdf" target="_blank">hier</a> als PDF Dokument heruntergeladen und gelesen werden.
 
 Ivan Rašić
